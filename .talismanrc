@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: src/DispatcherTable.ts
+  checksum: ed427cc07e9c5bae544effb3412c31005b355511b87f393e07badc55b7da8227
+- filename: src/constants.ts
+  checksum: 4c74d759472c8c50f3524a0d0954f7f20669299442d66c2c9eb6cee101806fe7
+- filename: yarn.lock
+  checksum: 1a09341815728f8041a9731d1e6d1161bc3bc747c059bdcf2672dd41fc7d6187
+version: "1.0"
